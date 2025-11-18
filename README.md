@@ -60,11 +60,11 @@ git clone "https://github.com/ShadaAminaDK/product-catalog-api.git"
 cd product-catalog-api
 
 ### **📦 2. Install Dependencies**
-sh
+
 npm install
 
 ### **▶️ 3. Run the Server**
-sh
+
 node server.js
 
 Server will start on:
