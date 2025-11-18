@@ -56,7 +56,7 @@ project/
 
 ### **📥 1. Clone the Repository**
 
-git clone ""
+git clone "https://github.com/ShadaAminaDK/product-catalog-api.git"
 cd product-catalog-api
 
 ### **📦 2. Install Dependencies**
@@ -84,11 +84,11 @@ http://localhost:3000
 ---
 
 ## **5. GitHub Repository Link**
-
+https://github.com/ShadaAminaDK/product-catalog-api.git
 
 
 ## **6. Author Information**
 
-Name: Hajira Ruzuna
+Name: Shada Amina DK
 Project: Product Catalog API
 Year: 2025
